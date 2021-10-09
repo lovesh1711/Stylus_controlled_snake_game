@@ -30,12 +30,6 @@ obs_y=random.randint(20,screen_height-40)
 
 obstacle=[]
 
-for i in range(5):
-    obs_x=random.randint(20,screen_width-40)
-    obs_y=random.randint(20,screen_height-40)
-    obstacle.append((obs_x,obs_y))
-
-    
 def game_loop():
     
     # game specific variables
