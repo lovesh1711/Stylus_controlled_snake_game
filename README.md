@@ -18,8 +18,7 @@ The basic operations required while making the game is:
 
 **Now that we have created a simple snake game we can add moving images and hurdles to make it attractive**.
 
-Final code is attached. After implemening all the steps we get the snake game as:
-![](https://i.imgur.com/6F8qdX4.png)
+
 
 ### b) Making a stylus controlled snake game.
 Our aims will be to detect the direction in which stylus is moving and if we are able to get it then only we have to link it with the game.
