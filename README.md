@@ -29,7 +29,6 @@ Our aims will be to detect the direction in which stylus is moving and if we are
 4. Finding the maximum difference of consecutive say x coordinates in the list and if it is greater than 10(significant movement in that perticular direction) then the snake is assigned that direction.
 
 **All the rest necessary information is explained through comments in the code**
-
 **Here is the output of the detection of direction**
 ![](https://i.imgur.com/NBLDFmk.gif)
 
