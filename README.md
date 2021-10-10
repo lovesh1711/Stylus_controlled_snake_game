@@ -32,8 +32,18 @@ Our aims will be to detect the direction in which stylus is moving and if we are
 ### Here is the output of the detection of direction
 ![](https://i.imgur.com/NBLDFmk.gif)
 
+
+
+
+
+
 ## Final output
 ![](https://i.imgur.com/nnQYar3.gif)
+
+
+
+
+
 
 **VIDEO LINK**
 https://drive.google.com/file/d/175HGr6Fc3pZmrkzumxFuOJrOXI9RHKVB/view?usp=sharing
