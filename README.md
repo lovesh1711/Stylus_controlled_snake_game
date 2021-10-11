@@ -17,7 +17,10 @@ The basic operations required while making the game is:
 10. We can set the frame rate according to our choice.
 
 **Now that we have created a simple snake game we can add moving images and hurdles to make it attractive**.
+
 ![](https://i.imgur.com/ujSFbjJ.png)
+
+
 
 ### b) Making a stylus controlled snake game.
 Our aims will be to detect the direction in which stylus is moving and if we are able to get it then only we have to link it with the game.
@@ -29,22 +32,19 @@ Our aims will be to detect the direction in which stylus is moving and if we are
 4. Finding the maximum difference of consecutive say x coordinates in the list and if it is greater than 10(significant movement in that perticular direction) then the snake is assigned that direction.
 
 **All the rest necessary information is explained through comments in the code**
-### Here is the output of the detection of direction
+
+**Here is the output of the detection of direction**
 ![](https://i.imgur.com/NBLDFmk.gif)
 
-### FINAL OUTPUT
-
-![](https://i.imgur.com/nnQYar3.gif)
-
+## FINAL OUTPUT 
+![](https://i.imgur.com/lVdDQyi.gif)
 
 
-
-
-
-**VIDEO LINK**
+### VIDEO LINK
 https://drive.google.com/file/d/175HGr6Fc3pZmrkzumxFuOJrOXI9RHKVB/view?usp=sharing
 
-
+### Contributers
+**Lovesh Goyal**
 
 
 
